@@ -8,4 +8,4 @@ SDN Controller 중 하나로 Linux Foundation가 host 중인 오픈 소스 프�
 
 하위 계층에 위치하는 ONOS들은 자신이 관리하는 네트워크 정보를 상위 계층의 ONOS로 mapping하여 전달
 ## 4. 실행 예시
-![explicit_mapping](./img/explicit_mapping.png)
+![explicit_mapping](./img/explicit_mapping.PNG)
